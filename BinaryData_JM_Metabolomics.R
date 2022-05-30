@@ -1,7 +1,7 @@
 ##Code date: 2022 - 05 - 17
-##Name: Jo„o Marcos GonÁalves Barbosa         
+##Name: Jo√£o Marcos Gon√ßalves Barbosa         
 ##ORCID address: https://orcid.org/0000-0003-3560-5838
-##GitHub adress: https://github.com/Barbosa-JMG/Data-repository-for-A-cerumenolomic-approach-to-bovine-trypanosomosis-diagnosis.git
+##GitHub adress: https://github.com/Barbosa-JMG
 ##Obs:RScript applied to the paper "A cerumenolomic approach to bovine trypanosomosis diagnosis"
 ##In case of use, Please cite: 
 
