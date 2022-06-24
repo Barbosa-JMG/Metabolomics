@@ -3,7 +3,7 @@
 ##ORCID address: https://orcid.org/0000-0003-3560-5838
 ##GitHub adress: https://github.com/Barbosa-JMG
 ##Obs:RScript applied to the paper "A cerumenolomic approach to bovine trypanosomosis diagnosis"
-##In case of use, Please cite: 
+##In case of use, Please cite: Barbosa, J.M.G., de Mendonça, D.R., David, L.C. et al. A cerumenolomic approach to bovine trypanosomosis diagnosis. Metabolomics 18, 42 (2022). https://doi.org/10.1007/s11306-022-01901-y 
 
                   ###############################################################################
 
